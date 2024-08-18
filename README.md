@@ -14,7 +14,7 @@
 
 <h2 align="left">
   
-### Hey there 👋, I'm r00tSid
+### Hey there 👋, I'm Sidhanta Palei aka "r00tSid"
 
 I'm a passionate cybersecurity enthusiast and bug bounty hunter.
 
