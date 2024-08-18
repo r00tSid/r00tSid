@@ -25,15 +25,19 @@ I'm a passionate cybersecurity enthusiast and bug bounty hunter.
 - ⚡ Fun fact: I love exploring new security tools and techniques.
 
 ### 🚀 My Skills
-- **Programming Languages**: Python, Bash
+- **Programming Languages**: Python, Bash, C lang, Java, SQL.
 - **Tools**: Burp Suite, Nmap, Wireshark, Metasploit, Xray, etc.
 - **Areas of Expertise**: Web Application Security, Network Security, Vulnerability Analysis
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r00tSid&show_icons=true&theme=radical" alt="r00tSid's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r00tSid&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
+
+[![r00tSid's GitHub stats](https://github-readme-stats.vercel.app/api?username=r00tSid&theme=purple&show_icons=true)](https://github.com/r00tSid/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=r00tSid&theme=dark&card_width=450&theme=purple)](https://git.io/streak-stats)
+<p align="left"><a href="https://github.com/r00tSid/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r00tSid&layout=compact&theme=purple" width="450" /></a></p>
+
+<br><br>
+
 
 ### 🛠️ Tools & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
