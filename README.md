@@ -32,11 +32,12 @@ I'm a passionate cybersecurity enthusiast and bug bounty hunter.
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
 
-[![r00tSid's GitHub stats](https://github-readme-stats.vercel.app/api?username=r00tSid&theme=purple&show_icons=true)](https://github.com/r00tSid/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=r00tSid&theme=dark&card_width=450&theme=purple)](https://git.io/streak-stats)
-<p align="left"><a href="https://github.com/r00tSid/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r00tSid&layout=compact&theme=purple" width="450" /></a></p>
+[![r00tSid's GitHub stats](https://github-readme-stats.vercel.app/api?username=r00tSid&show_icons=true&bg_color=000000&title_color=purple&text_color=ffffff&icon_color=purple)](https://github.com/r00tSid/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=r00tSid&theme=dark&card_width=450&background=000000&fire=purple&ring=purple&currStreakLabel=ffffff&sideLabels=ffffff)](https://git.io/streak-stats)
+<p align="left"><a href="https://github.com/r00tSid/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r00tSid&layout=compact&bg_color=000000&title_color=purple&text_color=ffffff" width="450" /></a></p>
 
 <br><br>
+
 
 
 ### 🛠️ Tools & Technologies
