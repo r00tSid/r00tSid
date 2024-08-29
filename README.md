@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="50%" height="auto"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="70%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -9,7 +9,7 @@
 <h3 align="center">On a Journey to become a great human being...<p align="right"></h3> -->
 
 
-<img width="20%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
+<img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
 
 
 <h2 align="left">
