@@ -30,7 +30,6 @@ I'm a passionate cybersecurity enthusiast and bug bounty hunter.
 - **Areas of Expertise**: Web Application Security, Network Security, Vulnerability Analysis
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
 
 [![r00tSid's GitHub stats](https://github-readme-stats.vercel.app/api?username=r00tSid&show_icons=true&bg_color=000000&title_color=e900ff&text_color=ffffff&icon_color=e900ff&hide_border=true)](https://github.com/r00tSid/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=r00tSid&theme=dark&card_width=450&background=000000&fire=e900ff&ring=e900ff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=e900ff&hide_border=true)](https://git.io/streak-stats)
