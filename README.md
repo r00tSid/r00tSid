@@ -56,7 +56,7 @@
 
 <h2 align="left">🌟 Featured Projects</h2>
 <ul>
-  <li><strong>Karn</strong>: <a href="https://github.com/r00tSid/karn">BloodBank and Organ Management Project</a> developed during the PU Code Hackathon.</li>
+  <li><strong>Karn</strong>: <a href="https://github.com/r00tSid/BloodBank-and-Organ-Management-Project-Name-Karn">BloodBank and Organ Management Project</a> developed during the PU Code Hackathon.</li>
   <li><strong>Sub-Enum</strong>: <a href="https://github.com/r00tSid/Sub-Enum">The Subdomain Enumeration Tool</a> is a Python-based utility designed to identify subdomains of a specified domain using DNS lookups and certificate transparency logs from 'crt.sh'. This tool is useful for security researchers and penetration testers seeking to gather information about a target domain.</li>
 </ul>
 
