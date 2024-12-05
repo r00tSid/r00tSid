@@ -19,7 +19,6 @@
   <li>🌱 Learning about advanced vulnerability detection techniques and automation.</li>
   <li>👯 Open to collaborations on open-source cybersecurity projects.</li>
   <li>💬 Feel free to ask me about cybersecurity tools, techniques, or strategies.</li>
-  <li>⚡ Fun fact: I love reverse engineering and dissecting security tools.</li>
 </ul>
 
 <h2 align="left">🚀 My Skills</h2>
